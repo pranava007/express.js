@@ -1,0 +1,19 @@
+.navcolor{
+        
+    background-color: rgb(34, 33, 33);
+    padding: 10px;
+  }
+  .liclass a{
+
+   
+    color: rgb(249, 249, 250);
+
+  }
+
+  .ul{
+    display: flex;
+    
+  }
+  body{
+    background-color: aquamarine;
+  }
